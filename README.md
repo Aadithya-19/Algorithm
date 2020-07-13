@@ -1,2 +1,2 @@
-# Algorithm
-This is a basic description of an algorithm for a code, that I created in Visual Code Studio
+# p5.play-boilerplate
+Boiler plate for p5.play
